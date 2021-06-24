@@ -1,0 +1,26 @@
+h2{
+    background: color #f5fffa;;
+}
+*{
+ background-color:#00ffff; 
+}
+
+.camelorigami{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 8px;
+  padding: 10px;
+}
+
+.lionorigami{
+  font-size:15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  margin: 8px;
+  padding: 10px;
+}
+
+.flamingoorigami{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 8px;
+    padding: 10px;
+}
